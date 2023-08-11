@@ -1,0 +1,26 @@
+From 3d9c5d64c4456915053de656893d218f76c2c233 Mon Sep 17 00:00:00 2001
+From: Xojiakbar <87039534+XojiakbarA@users.noreply.github.com>
+Date: Thu, 10 Aug 2023 19:22:10 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..791383c 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ 1
+ 2
+-3
+-4
++33
++44
+ 5
+ 6
+ 7
+-- 
+2.30.1 (Apple Git-130)
+
